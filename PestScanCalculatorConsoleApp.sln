@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PestScanCalculatorConsoleApp", "PestScanCalculatorConsoleApp\PestScanCalculatorConsoleApp.csproj", "{E73D4C03-74BC-44B9-896C-C3465D6A43B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PestScanCalculatorTestApp", "PestScanCalculatorTestApp\PestScanCalculatorTestApp.csproj", "{829E534D-9CAF-401C-81DB-C06DEAC9A850}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E73D4C03-74BC-44B9-896C-C3465D6A43B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E73D4C03-74BC-44B9-896C-C3465D6A43B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E73D4C03-74BC-44B9-896C-C3465D6A43B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E73D4C03-74BC-44B9-896C-C3465D6A43B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{829E534D-9CAF-401C-81DB-C06DEAC9A850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{829E534D-9CAF-401C-81DB-C06DEAC9A850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{829E534D-9CAF-401C-81DB-C06DEAC9A850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{829E534D-9CAF-401C-81DB-C06DEAC9A850}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F97266FF-B40C-408D-983E-C0C61ABB2A0A}
+	EndGlobalSection
+EndGlobal
